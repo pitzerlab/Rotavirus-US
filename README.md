@@ -1,4 +1,4 @@
-# Rotavirus Gastroenteritis Hospitalization Projections — US
+# Estimated Impacts of Rotavirus Vaccine Guideline Changes in the U.S. 
 
 R code and data for analyses and figures in the manuscript.
 
