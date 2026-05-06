@@ -1,6 +1,10 @@
-# Estimated Impacts of Rotavirus Vaccine Guideline Changes in the U.S. 
+# Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S.
 
 MATLAB code for the transmission dynamic model and R code for downstream analyses and figures in the manuscript.
+
+## Citation
+
+Asare EO, Kwon J, Chitwood MH, Perniciaro S, Gonsalves GS, Pitzer VE. Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S. *medRxiv* 2026.04.27.26351857. doi: https://doi.org/10.64898/2026.04.27.26351857
 
 ![State-level coverage map](figures/0309_map.png)
 
